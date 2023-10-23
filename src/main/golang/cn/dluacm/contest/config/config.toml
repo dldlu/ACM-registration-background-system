@@ -1,0 +1,8 @@
+[Mysql]
+Db = "mysql"
+DbHost = "123.56.105.80"
+DbPort = "3306"
+DbUser = "acm_registration"
+DbPassWord = "yC66XXt2fbc8CbFL"
+DbName = "acm_registration"
+
